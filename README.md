@@ -4,6 +4,6 @@ Emergence of The Big Brother(TBB) in 21st century: When Software Collides with P
 
 PDF version of the book is available in [release section](https://github.com/mahanubhav/tbb/releases)
 
-[kindle link](https://www.amazon.com/dp/B07548C2K1)
+Kindle version of the book is available on [amazon](https://www.amazon.com/dp/B07548C2K1)
 
-The book has been licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+The book is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
