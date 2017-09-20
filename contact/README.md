@@ -1,5 +1,5 @@
 [E-mail](mailto:sm.author@protonmail.com)
 
-[PGP KEY](/public_key.txt)
+[PGP KEY](/contact/public_key.txt)
 
-[Fingerprint](/fingerprint.txt)
+[Fingerprint](/contact/fingerprint.txt)
