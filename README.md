@@ -71,3 +71,9 @@ Chapter 18: Some General Solutions (for both users and the government)
 #### Reporting Issues:
 
 I never thought that writing a book could be this much tough.  Every time I read it, I always come across some or other form of mistakes.  I’ve tried to minimize logical inconsistencies as much as possible, but still it is possible that I might have missed some key points. Therefore, if readers feel that there are some logical inconsistencies in the arguments presented in the book, then they should open up issue in the [issues section](https://github.com/mahanubhav/tbb/issues) . It is possible that from those issues, I might get some new insight or some new way of looking at things - which I’ve not thought about earlier.
+
+Apart from normal issues any constructive criticism, suggestion or feedback is welcome. 
+
+Readers can also contact me using [email address](mailto:sm.author@protonmail.com)
+
+[Fingerprint](/contact/fingerprint.txt) , [PGP KEY](/contact/public_key.txt)
