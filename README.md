@@ -65,7 +65,7 @@ Chapter 18: Some General Solutions (for both users and the government)
 
 2. This book is not about how surveillance is being performed today. It is also not about cyber crimes. Its main aim is to discuss the technological structures in association with politics, economics and the society, that can bring the concept of Orwellian Big Brother into reality. 
 
-3. The book has been released under creative commons license: [CC-BY-NC-ND 4.0] (https://creativecommons.org/licenses/by-nc-nd/4.0/). 
+3. The book has been released under creative commons license: [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
 
 
 **Reporting Issues:**
