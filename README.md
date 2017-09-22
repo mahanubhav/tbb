@@ -76,4 +76,4 @@ Apart from normal issues any constructive criticism, suggestion or feedback is w
 
 Readers can also contact me using [email address](mailto:sm.author@protonmail.com)
 
-[Fingerprint](/contact/fingerprint.txt) , [PGP KEY](/contact/public_key.txt)
+[PGP Fingerprint](/contact/fingerprint.txt) , [PGP KEY](/contact/public_key.txt)
