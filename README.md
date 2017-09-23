@@ -63,7 +63,7 @@ Chapter 18: Some General Solutions (for both users and the government)
 
 1. The book has been written with software and the ecosystem surrounding it at its focal point. 
 
-2. Digital surveillance is one of the important topics discussed in the book, but enumerating the number of ways in which surveillance is performed today, is not its main focus. The book is also not about cyber crimes. The main aim of the book is to discuss the technological structures in association with politics, economics and the society, that can bring the concept of Orwellian Big Brother into reality. 
+2. The book tries to analyze the factors responsible for creation of surveillance state in 21st century, instead of just enumerating the ways in which digital surveillance is being performed today. The main focus of the book is to discuss opaque structures of digital technology in association with politics, economics and society, in order to understand the basis behind surveillance state.
 
 3. The book has been released under creative commons license: [CC-BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
 
