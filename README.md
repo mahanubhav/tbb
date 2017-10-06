@@ -55,7 +55,7 @@ Chapter 18: Some General Solutions (for both users and the government)
 
 ### How to get the book?
 
-1. The book is available in PDF format in the [release section](https://github.com/mahanubhav/tbb/releases). It has been encrypted with symmetric cipher and requires passphrase that is also given on the release page. Users can decrypt it using GPG or other software of their choice. Now the question is why to encrypt the book in the first place itself if the passphrase for decrypting it also given? In this case, encryption has not been used for protecting the book, but actually as a way to promote the use of encryption in daily life. When it comes to encryption very few people use it and have knowledge of it. Software such as GPG has really made encryption accessible to everyone, and I think people should start using it. Those who know about GPG can easily decrypt the file with just one single command {gpg file_name}, and those who have never used encryption in any form then it will be a good exercise for them to use it for the first time.  If users are facing difficulty in decrypting the file, then they can either open up issue or they can directly send me an email requesting copy of the book. 
+1. The book is available in PDF format in the [release section](https://github.com/mahanubhav/tbb/releases).
 
 2. The book is also available on [amazon kindle](https://www.amazon.com/dp/B07548C2K1), without DRM. If readers want to support author and his work then they can buy it from amazon. 
 
