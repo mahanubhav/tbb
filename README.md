@@ -12,45 +12,45 @@ Orwellian Big Brother is a fascinating concept. It is the concept that brings bo
 
 **Part I:Bringing The Big Brother into Reality from the World of Fiction**
 
-Chapter 1: Is Orwellian Big Brother A Fictional Concept?
+* Chapter 1: Is Orwellian Big Brother A Fictional Concept?
 
-Chapter 2: Basis of Surveillance State in 21st Century
+* Chapter 2: Basis of Surveillance State in 21st Century
 
-Chapter 3: Software and Surveillance
+* Chapter 3: Software and Surveillance
 
-Chapter 4: The Big Brother : More than Surveillance State
+* Chapter 4: The Big Brother : More than Surveillance State
 
-Chapter 5: Thought Control in 21st Century – Algorithms/Software Manufactured Consent
+* Chapter 5: Thought Control in 21st Century – Algorithms/Software Manufactured Consent
 
-Chapter 6: Open Standards, Open Protocols and The Big Brother
+* Chapter 6: Open Standards, Open Protocols and The Big Brother
 
-Chapter 7: Network Security, Encryption and The Big Brother
+* Chapter 7: Network Security, Encryption and The Big Brother
 
-Chapter 8: Internet of Things (IoT): A Dream come true for The Big Brother
+* Chapter 8: Internet of Things (IoT): A Dream come true for The Big Brother
 
-Chapter 9: The Curious Case of Cloud
+* Chapter 9: The Curious Case of Cloud
 
-Chapter 10: Centralization of Internet
+* Chapter 10: Centralization of Internet
 
-Chapter 11: Looking into Hardware
+* Chapter 11: Looking into Hardware
 
 **Part II : Software and its interaction with Politics, Economics and Society**
 
-Chapter 12: Nature of Software
+* Chapter 12: Nature of Software
 
-Chapter 13: Democracy, International Relations and Software
+* Chapter 13: Democracy, International Relations and Software
 
-Chapter 14: Capitalism and Free/Open Software
+* Chapter 14: Capitalism and Free/Open Software
 
-Chapter 15: Software, Privacy and Trust
+* Chapter 15: Software, Privacy and Trust
 
-Chapter 16: Deep State and Software
+* Chapter 16: Deep State and Software
 
-Chapter 17: Developing World and Free/Open Software
+* Chapter 17: Developing World and Free/Open Software
 
 **Part III:Extra Topics**
 
-Chapter 18: Some General Solutions (for both users and the government)
+* Chapter 18: Some General Solutions (for both users and the government)
 
 
 ### How to get the book?
