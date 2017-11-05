@@ -57,7 +57,7 @@ Orwellian Big Brother is a fascinating concept. It is the concept that brings bo
 
 1. The book is available in PDF format in the [release section](https://github.com/mahanubhav/tbb/releases).
 
-2. The book is also available on [amazon kindle](https://www.amazon.com/dp/B07548C2K1), without DRM. If readers want to support author and his work then they can buy it from amazon. 
+2. The book is also available on [amazon kindle](https://www.amazon.com/dp/B07548C2K1), without DRM. If readers want to support author and his work then they can buy it from amazon, otherwise pdf version available in the release section is much better. 
 
 ### Few more things about the book
 
