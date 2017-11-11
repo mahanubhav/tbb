@@ -55,7 +55,7 @@ Orwellian Big Brother is a fascinating concept. It is the concept that brings bo
 
 ### How to get the book?
 
-1. The book is available in PDF format in the [release section](https://github.com/mahanubhav/tbb/releases).
+1. The book is available in PDF format [here](https://github.com/mahanubhav/tbb/releases). The pdf has been encrypted using symmetric cypher. Users need to decrypt the file using GPG. Passphrase for decryption is also given in the [release section](https://github.com/mahanubhav/tbb/releases).  
 
 2. The book is also available on [amazon kindle](https://www.amazon.com/dp/B07548C2K1), without DRM. If readers want to support author and his work then they can buy it from amazon, otherwise pdf version available in the release section is much better. 
 
